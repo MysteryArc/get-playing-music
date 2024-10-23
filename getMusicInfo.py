@@ -1,10 +1,3 @@
-'''
-@File       :  getMusicInfo.py
-@Time       :  2024/10/22 17:50:51
-@Author     :  Wang Hengyu (wanghyuuuuu@163.com)
-@Description:  
-'''
-
 # here put the import lib
 import win32process
 import win32gui
